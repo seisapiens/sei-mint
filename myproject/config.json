@@ -1,0 +1,79 @@
+{
+    "mnemonic": "regular palace exit father joy dice wash erase put ticket peanut chimney",
+    "rpc": "https://sei-rpc.polkachu.com/",
+    "network": "pacific-1",
+    "name": "Sei Emeralds",
+    "symbol": "EMD",
+    "description": "A cascade of 99 Emeralds has arrived at $SEI, catching the attention of SEI",
+    "supply": 99,
+    "token_uri": "https://arweave.net/vR4v02jeNxwCgm9Lbr6oDVijYmLRP1evsVGKVDNXOkg",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+
+        {
+            "name": "Team",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-01T15:35:39Z",
+            "end_time": null
+        },
+
+        {
+            "name": "OG",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-01T15:35:39Z",
+            "end_time": null
+        },
+
+        {
+            "name": "Whitelist",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-01T15:35:39Z",
+            "end_time": null
+        },
+
+        {
+            "name": "Public",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-01T15:35:39Z",
+            "end_time": null
+        }
+    ]
+}

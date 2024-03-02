@@ -1,0 +1,22 @@
+{
+  "name": "Sei Emeralds #22",
+  "description": "A cascade of 99 Emeralds has arrived at $SEI, catching the attention of SEI.",
+  "image": "22.png",
+  "edition": 22,
+  "date": 1709291336994,
+  "attributes": [
+    {
+      "trait_type": "Emeralds",
+      "value": "3"
+    },
+    {
+      "trait_type": "Gem",
+      "value": "6"
+    },
+    {
+      "trait_type": "Stone",
+      "value": "4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
